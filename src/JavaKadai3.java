@@ -1,10 +1,3 @@
-//第3回課題
-//String型のListかMapを作成して、その内容をコンソール画面に表示してみよう。
-// Listに入れる内容は何でもOKだが、複数入れること。
-//任意のプログラムで例外を起こしてみる。
-// 課題のソースコードをGitHubにpushしてレビューを依頼する。
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.HashMap;
