@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Java_kadai3 {
+public class JavaKadai3 {
     public static void main(String[] args) {
         List<String> nameList1 = new ArrayList<>();
         nameList1.add("オズ");
