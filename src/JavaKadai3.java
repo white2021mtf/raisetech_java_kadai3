@@ -12,6 +12,7 @@ public class JavaKadai3 {
         nameList1.add("ライオン");
         nameList1.add("ブリキ");
         nameList1.add("カカシ");
+        nameList1.add("猪");
         System.out.println(nameList1.size());
         System.out.println(nameList1.get(0));
         System.out.println(nameList1.get(1));
@@ -19,6 +20,7 @@ public class JavaKadai3 {
         System.out.println(nameList1.get(3));
         System.out.println(nameList1.get(4));
         System.out.println(nameList1.get(5));
+        System.out.println(nameList1.get(6));
 
         String[] nameList2 = {"オズ", "トト", "ブリキ"};
 //        int index = 4;
